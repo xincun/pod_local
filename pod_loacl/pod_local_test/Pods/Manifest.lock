@@ -1,0 +1,16 @@
+PODS:
+  - my_lib (1.12.1)
+
+DEPENDENCIES:
+  - my_lib (from `/Users/hbro.hf/Desktop/my_files/mac_dev/demo/pod_loacl/my_lib`)
+
+EXTERNAL SOURCES:
+  my_lib:
+    :path: "/Users/hbro.hf/Desktop/my_files/mac_dev/demo/pod_loacl/my_lib"
+
+SPEC CHECKSUMS:
+  my_lib: daac7b1e01d7c6893673460daf5af5198ed457b6
+
+PODFILE CHECKSUM: c8d547605f7e9d381fbcda677731f5e3930ac154
+
+COCOAPODS: 1.2.1
